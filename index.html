@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Weather Dashboard</title>
+  <!-- Bootstrap CSS CDN  -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.min.css" />
+
+  <!-- Font Awesome CSS Icons (For cool glyphicons) -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" />
+
+  <!-- Style to fix the issue of text extending past card length -->
+  <link rel="stylesheet" href="style.css" />
+
+</head>
+
+<body>
+
+  <!-- Main Bootstrap Search -->
+  <div class="container">
+
+    <!-- Jumbotron for Title -->
+    <div class="jumbotron" style="background-color: #20315A ; color: white;">
+      <h1 class="text-center">
+        <strong> Weather Dashboard</strong>
+      </h1>
+    </div>
+
+    <div class="input-group mb-3">
+      <input type="text" class="form-control" placeholder="" value="" aria-describedby="button-addon2">
+      <div class="input-group-append">
+        <button class="btn btn-outline-secondary" type="button"><i class="fa fa-search"></i> Search</button>
+      </div>
+    </div>
+
+    <p class="city"></p>
+    <p id="currentDay"></p>
+    <p class="wind"></p>
+    <p class="humidity"></p>
+    <p class="tempF"></p>
+    <p class="UV"></p>
+ 
+
+    
+  <div class="btn-group-vertical">
+    <button type="button" class="btn btn-secondary">Austin</button>
+    <button type="button" class="btn btn-secondary">Chicago</button>
+    <button type="button" class="btn btn-secondary">New York</button>
+    <button type="button" class="btn btn-secondary">Orlando</button>
+    <button type="button" class="btn btn-secondary">San Francisco</button>
+    <button type="button" class="btn btn-secondary">Seattle</button>
+    <button type="button" class="btn btn-secondary">Denver</button>
+    <button type="button" class="btn btn-secondary">Atlanta</button>
+  </div>
+
+
+
+
+  <!-- Add extra div for the bonus Fahrenheit temp -->
+  
+
+
+  </div>
+
+  <!-- jQuery JS -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
+  <script src="https://code.jquery.com/jquery.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/js/bootstrap.bundle.min.js"></script>
+  <!-- Code to the JavaScript File -->
+  <script src="script.js"></script>
+
+</body>
+
+</html>
