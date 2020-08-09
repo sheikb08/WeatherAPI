@@ -1,0 +1,46 @@
+/* p {
+    position: relative;
+    left: 300px;
+    color: black;
+    
+} */
+
+.favor{
+    background-color: green;
+    display: inline-block;
+
+}
+
+.moderate{
+    background-color: yellow;
+    display: inline-block;
+}
+
+.severe{
+    background-color: red;
+    display: inline-block;
+}
+
+
+#dyfore{
+  display: flex;
+  flex-direction: column;
+  left: 200px;
+  
+
+}
+
+#forecast, #Day5{
+display: flex;
+left: 325px;
+top: 20px;
+}
+
+.forecast1, .forecast2, .forecast3, .forecast4, .forecast5{
+width: 100px;
+  display: inline-block;
+ 
+    
+}
+
+
