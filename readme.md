@@ -4,7 +4,7 @@
   - [Weather API Dashboard](#weather-api-dashboard)
   - [Table of Contents](#table-of-contents)
   - [Description](#description)
-  - [Tech/Modules Used](#tech-api-format-used)
+  - [Tech/Modules Used](#tech/api's/format-used)
   - [Motivation](#motivation)
   - [Screenshots](#screenshot)
   - [Contributors](#contributor)
@@ -30,7 +30,7 @@ UV Index, Humidity, Wind Speed and Temperature for queried cities.
 
 
 ## Motivation 
-This application can be used to quickly create a formatted README.md file.
+To provide users with an all-in-one experience to retrieve weather information in cities and 5-Day forcast location based on city input. 
 
 ## Screenshot  
 |![Command Line Screenshot](images/screen.JPG)
