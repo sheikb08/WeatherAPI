@@ -4,7 +4,7 @@
   - [Weather API Dashboard](#weather-api-dashboard)
   - [Table of Contents](#table-of-contents)
   - [Description](#description)
-  - [Tech/Modules Used] (#tech/API's/Format)
+  - [Tech/Modules Used](#tech-api-format)
   - [Motivation](#motivation)
   - [Screenshots](#screenshot)
   - [Contributors](#contributors)
@@ -38,4 +38,4 @@ This application can be used to quickly create a formatted README.md file.
 
 ## Contributor
 * Brandon Johnson
-* Repository: https://github.com/sheikb08/ReadMeGenerator
+* Repository: https://github.com/sheikb08/WeatherAPI
