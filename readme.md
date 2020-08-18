@@ -10,7 +10,7 @@
   - [Contributors](#contributor)
 
 # Description
-*When creating an open souDevelopers are often tasked with retrieving data from another application's API and using it in the context of their own. Third-party APIs allow developers to access their data and functionality by making requests with specific parameters to a URL. In this homework assignment, I created a weather dashboard that uses a weather API to populate information on: 
+* When creating an open souDevelopers are often tasked with retrieving data from another application's API and using it in the context of their own. Third-party APIs allow developers to access their data and functionality by making requests with specific parameters to a URL. In this homework assignment, I created a weather dashboard that uses a weather API to populate information on: 
 UV Index, Humidity, Wind Speed and Temperature for queried cities.
 
 ## Tech/API's/Format Used :
