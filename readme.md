@@ -6,14 +6,14 @@
   - [Description](#description)
   - [Technology](#technology-used)
   - [Motivation](#motivation)
-  - [Screenshots](#screenshot)
-  - [Contributors](#contributor)
+  - [Screenshot](#screenshot)
+  - [Contributor](#contributor)
 
 # Description
 * When creating an open souDevelopers are often tasked with retrieving data from another application's API and using it in the context of their own. Third-party APIs allow developers to access their data and functionality by making requests with specific parameters to a URL. In this homework assignment, I created a weather dashboard that uses a weather API to populate information on: 
 UV Index, Humidity, Wind Speed and Temperature for queried cities.
 
-## Technology Used :
+## Technology Used
 
 ### [Open Weather API](https://openweathermap.org/api):
 * OpenWeatherMap is one of the leading digital weather information providers. They are a small IT company, established in 2014 by a group of engineers and experts in Big Data, data processing, and satellite imagery processing. Our headquarters is in the UK, we have an office in the USA, and the development team in Latvia (EU).
