@@ -16,6 +16,7 @@ UV Index, Humidity, Wind Speed and Temperature for queried cities.
 ## Tech/API's/Format Used :
 
 ### [Open Weather API](https://openweathermap.org/api):
+* OpenWeatherMap is one of the leading digital weather information providers. They are a small IT company, established in 2014 by a group of engineers and experts in Big Data, data processing, and satellite imagery processing. Our headquarters is in the UK, we have an office in the USA, and the development team in Latvia (EU).
 
 ### [BootStrap](https://getbootstrap.com/)
 * Bootstrap allowed me to quickly design and customize responsive mobile-first sites, the world’s most popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins.
